@@ -1,4 +1,5 @@
 Nafmaxia
+
 ~ pinakas: int[][] = new int[7][7]
 ~ krymenaploia: int[][]
 ~ xtypimenaploia: int = 0
