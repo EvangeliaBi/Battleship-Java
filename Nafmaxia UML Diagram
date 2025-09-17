@@ -1,0 +1,16 @@
+Nafmaxia
+~ pinakas: int[][] = new int[7][7]
+~ krymenaploia: int[][]
+~ xtypimenaploia: int = 0
+~ synolikaploia: int = 6
+~ attempts: int = 0
+~ totalhits: int = 0
+~ totalmisses: int = 0
+
+~ arxikopinakas()
+~ arxikoploia()
+~ printsimvouli(int, int)
+~ ektipositamplo()
+~ ploiatamplo(int, int) : Boolean
+~ enimerosiripseon(int, int)
++ main(String[])
